@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import TestDeTuring from './Neuronne';
+import Neuronne from './Neuronne';
 import './index.css';
 
 
